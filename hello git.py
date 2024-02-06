@@ -1,2 +1,12 @@
 print("new hello git")
 print("how are you")
+nombre = input("Bert:")
+print("se ha escrito un nombre:")
+print(nombre)
+mayuscula = "cadena de texto".upper()
+print(mayuscula)
+print("cadena de texto".upper())
+texto = "cadena de texto"
+print(texto.upper())
+mayuscula = texto.upper()
+print(mayuscula)
